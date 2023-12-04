@@ -1,5 +1,5 @@
 # jarvis
-# A voice assistant attempting to mimic J.A.R.V.I.S
+### A voice assistant attempting to mimic J.A.R.V.I.S
 
 # Voice Commands:
 # How are you? : Responds precoded text and asks you.
